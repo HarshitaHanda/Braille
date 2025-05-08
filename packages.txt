@@ -1,0 +1,3 @@
+tesseract-ocr
+poppler-utils
+liblouis-dev  # Required for louis
